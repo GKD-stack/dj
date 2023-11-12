@@ -14,11 +14,11 @@ comments: true
 
 <p>On this platform, I share my insights, research findings, and thoughts on how data science intersects with and impacts political science. Feel free to explore my site and connect with me for any collaborative opportunities or discussions.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/your-photo.png" alt="Gurman Dhaliwal" /></p> <!-- Replace 'your-photo.png' with an actual image file name -->
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/me.png" alt="Gurman Dhaliwal" /></p> <!-- Replace 'your-photo.png' with an actual image file name -->
 
 <h4>Connect with Me</h4>
 
-<p>For further information or to get in touch, visit my <a href="https://gkd-stack.github.io/portfolio/">Portfolio</a> or connect with me on [LinkedIn/Twitter/Other social media] (add links).</p>
+<p>For further information or to get in touch, visit my <a href="https://gkd-stack.github.io/portfolio/">Portfolio</a> or email me at gurmankdhaliwal2@gmail.com.</p>
 
 </div>
 
