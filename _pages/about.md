@@ -5,25 +5,26 @@ permalink: /about
 comments: false
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+<div class="row">
+    <!-- Text Column -->
+    <div class="col-md-8">
 
-<p>Welcome to my website! I'm Gurman Dhaliwal, a passionate Data Scientist and Political Science researcher. Currently a student at the University of California, San Diego, I am deeply involved in leveraging data science to explore and influence the social science sphere, particularly in areas like public policy and women's rights.</p>
+        <p>Welcome to my website! I'm Gurman Dhaliwal, a passionate Data Scientist and Political Science researcher. Currently a student at the University of California, San Diego, I am deeply involved in leveraging data science to explore and influence the social science sphere, particularly in areas like public policy and women's rights.</p>
 
-<p>I have had the opportunity to work with organizations in government, nonprofit, and research, contributing my skills in data analysis, policy development, and research. My academic journey is complemented by my involvement in leadership roles in undergraduate business organizations and in initiatives such as the Chancellor’s Committee on the Status of Women.</p>
+        <p>I have had the opportunity to work with organizations in government, nonprofit, and research, contributing my skills in data analysis, policy development, and research. My academic journey is complemented by my involvement in leadership roles in undergraduate business organizations and in initiatives such as the Chancellor’s Committee on the Status of Women.</p>
 
-<p>On this platform, I share my insights, research findings, and thoughts on how data science intersects with and impacts political science. Feel free to explore my site and connect with me for any collaborative opportunities or discussions.</p>
+        <p>On this platform, I share my insights, research findings, and thoughts on how data science intersects with and impacts political science. Feel free to explore my site and connect with me for any collaborative opportunities or discussions.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/me.png" alt="Gurman Dhaliwal" /></p> <!-- Replace 'your-photo.png' with an actual image file name -->
+        <h4>Connect with Me</h4>
 
-<h4>Connect with Me</h4>
+        <p>For further information or to get in touch, visit my <a href="https://gkd-stack.github.io/portfolio/">Portfolio</a> or email me at [your email].</p>
 
-<p>For further information or to get in touch, visit my <a href="https://gkd-stack.github.io/portfolio/">Portfolio</a> or email me at gurmankdhaliwal2@gmail.com.</p>
+    </div>
 
+    <!-- Image Column -->
+    <div class="col-md-4">
+        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/me.png" alt="Gurman Dhaliwal" style="max-width: 100%; height: auto;">
+    </div>
 </div>
 
-<div class="col-md-4">
-    <!-- You can add a sidebar here if you want. For example, a list of your latest publications or upcoming talks. -->
-</div>
-</div>
 
