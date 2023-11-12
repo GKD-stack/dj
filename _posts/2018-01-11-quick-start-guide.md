@@ -1,26 +1,40 @@
 ---
 layout: post
-title:  "Let's test spoilers"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+title: "Bridging Gaps in Maternal Care: Empowering Doulas to Serve Disadvantaged Communities"
+author: Gurman
+categories: [ Public Health, Data Science ]
+tags: [ Maternal Mortality, Doulas, Healthcare Policy ]
+image: assets/images/maternal-health-project.jpg
+description: "An in-depth analysis of how current doula programs can be reformed to better serve disadvantaged communities, based on extensive research and data analysis."
 featured: true
 hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+### Introduction
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+Addressing the concerning rise in maternal mortality rates in the United States, particularly among women of color, my project explores the potential of doula services to mitigate this issue. Traditionally a resource for the affluent, this research focuses on making doula services accessible and effective for disadvantaged communities, emphasizing the importance of doulas from the same communities they serve.
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
+### Project Methodology
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
+I conducted direct interviews with 12 insurance liaisons, doulas, and nonprofit leaders, and created partnerships that led to collecting over 300 responses from doulas through an extensive survey. The focus was on Oregon and Minnesota, states at the forefront of legislative actions regarding doula services.
 
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
+### Key Findings
 
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
+#### Barriers to Training and Application
+The research highlighted significant barriers faced by doulas, particularly those of color and from low-income backgrounds. Key obstacles included high training fees, time constraints, and distance to training centers. The state response to applications was inconsistent, leading to additional hurdles. Notably, white and wealthier applicants faced fewer obstacles.
 
-#### So how do we do spoilers?
+#### Legislation Effectiveness and Recommendations
+The effectiveness of state legislation in reaching disadvantaged clients varied significantly. My findings suggest that waiving application fees, creating partnerships with community-based training centers to reduce training fees, and recognizing informal experience as valid for training can improve accessibility. Consistent communication and increasing reimbursement rates were also identified as crucial factors.
+
+#### The Impact of Shared Backgrounds
+The survey confirmed that most doulas believe a shared background with their client enhances their effectiveness. This underscores the need for legislative changes that support disadvantaged doulas, ensuring they are well-represented in the profession.
+
+### Conclusion
+
+My research points to the urgent need for reforms in doula programs to better serve disadvantaged communities. By addressing the barriers faced by doulas, particularly those from the communities they serve, we can make significant strides in reducing maternal mortality rates and improving outcomes for all mothers.
+
+[Insert visualizations and charts here...]
+
 
 ```html
 <span class="spoiler">My hidden paragraph here.</span>
