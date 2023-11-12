@@ -10,7 +10,7 @@ comments: true
 
 <p>Welcome to my website! I'm Gurman Dhaliwal, a passionate Data Scientist and Political Science researcher. Currently a student at the University of California, San Diego, I am deeply involved in leveraging data science to explore and influence the social science sphere, particularly in areas like public policy and women's rights.</p>
 
-<p>I have had the opportunity to work with organizations like the U.S. Census Bureau, Data Science Alliance, and the City of San Diego, contributing my skills in data analysis, policy development, and research. My academic journey is complemented by my involvement in leadership roles, like the Vice President of Consulting at Triton Consulting Group and participation in initiatives such as the Chancellor’s Committee on the Status of Women.</p>
+<p>I have had the opportunity to work with organizations in government, nonprofit, and research, contributing my skills in data analysis, policy development, and research. My academic journey is complemented by my involvement in leadership roles in undergraduate business organizations and in initiatives such as the Chancellor’s Committee on the Status of Women.</p>
 
 <p>On this platform, I share my insights, research findings, and thoughts on how data science intersects with and impacts political science. Feel free to explore my site and connect with me for any collaborative opportunities or discussions.</p>
 
