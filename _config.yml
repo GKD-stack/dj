@@ -4,7 +4,7 @@ title: "Exploring Data Science in Social Sciences"
 description: "A platform dedicated to exploring the applications of data science in the social science sphere."
 logo: 'assets/images/logo.png'  # Update if you have a different logo
 favicon: 'assets/images/logo.png'  # Update if you have a different favicon
-baseurl: ""  # Update with the correct base URL, empty if you're hosting at the root of your domain
+# baseurl: ""  # Update with the correct base URL, empty if you're hosting at the root of your domain
 google_analytics: 'UA-46278016-1'  # Update with your own Google Analytics ID
 disqus: 'demowebsite'  # Update if you want to use Disqus for comments
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'  # Update if you have a different Mailchimp list
