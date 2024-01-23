@@ -6,7 +6,7 @@ categories: [ Public Health, Data Science ]
 tags: [ Maternal Mortality, Doulas, Healthcare Policy ]
 image: assets/images/doula.jpg
 description: "An in-depth analysis of how current doula programs can be reformed to better serve disadvantaged communities, based on extensive research and data analysis."
-featured: true
+featured: false 
 hidden: true
 ---
 

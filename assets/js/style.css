@@ -1,0 +1,49 @@
+
+:root {
+    --text-width: 600px;
+}
+
+section {
+    width: var(--text-width);
+    margin: auto;
+}
+
+.hero-title {
+    font-size: 6rem;
+    text-align: center;
+}
+
+.hero-author {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.751);
+    text-align: center;
+}
+
+.chart-holder {
+    text-align: center;
+}
+
+.section-text {
+    width: var(--text-width);
+    margin: auto;
+}
+
+/* .svg {
+    /* border: 1px solid rgb(255, 255, 255) */
+ */
+
+body {
+    background-color: #646137;
+  }
+
+/* #graph-container{
+    text-align: center;
+} */
+
+.tooltip {
+    font-style: italic;
+    position: absolute;
+    font-size: 16px;
+    border: solid 2px black;
+    background-color: whitesmoke; 
+}

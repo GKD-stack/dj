@@ -4,7 +4,14 @@ disqus: false
 archive: false
 post_class: post-template
 ---
+<head>
+    <!-- Other head elements -->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <link rel="stylesheet" href="{{ '/assets/js/style.css' | prepend: site.baseurl }}">
 
+    <h1 class="posttitle">{{ page.title }}</h1>
+  </head>
+  
 <!-- Begin Article
 ================================================== -->
 <div class="container">
@@ -15,13 +22,13 @@ post_class: post-template
             <div class="mainheading">
 
                 <!-- Post Title -->
-                <h1 class="posttitle">{{ page.title }}</h1>
+                <!-- <h1 class="posttitle">{{ page.title }}</h1> -->
 
             </div>
 
             <!-- Post Featured Image -->
             {% if page.image %}
-            <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+            <!-- <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}"> -->
             {% endif %}
             <!-- End Featured Image -->
 
@@ -31,11 +38,11 @@ post_class: post-template
             </div>
 
             <!-- Post Date -->
-            <p>
+            <!-- <p>
             <small>
                 <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
             </small>
-            </p>
+            </p> -->
 
             <!-- Post Categories -->
             <div class="after-post-cats">
@@ -58,10 +65,15 @@ post_class: post-template
                     <li>
                         <a href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
                     </li>
-                    {% endfor %}
+                    {% endfor %}s=
                 </ul>
             </div>
             <!-- End Tags -->
+
+        <!-- <script src="{{ '/_posts/displayData.js' | prepend: site.baseurl }}"></script> -->
+        <script src="{{ '/assets/js/displayData.js' | prepend: site.baseurl }}"></script>
+        <script src="{{ '/assets/js/crypto_bar_chart.js' | prepend: site.baseurl }}"></script>
+        <script src="{{ '/assets/js/bubble-chart.js' | prepend: site.baseurl }}"></script>
 
         </div>
         <!-- End Post -->
