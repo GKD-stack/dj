@@ -18,6 +18,7 @@ gem 'github-pages', group: :jekyll_plugins
 
 # Windows-specific gem for better performance
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'faraday-retry'
 
 # The github-pages gem already includes several plugins.
 # If you add plugins here, ensure they are compatible with GitHub Pages.
