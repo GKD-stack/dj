@@ -1,7 +1,7 @@
 # Site
-name: "Gurman's Research Hub"
+name: "Gurman Dhaliwal"
 title: "Exploring Data Science in Social Sciences"
-description: "A platform dedicated to exploring the applications of data science in the social science sphere."
+description: "Data Scientist | Social Science Researcher | Writer"
 logo: 'assets/images/logo.png'  # Update if you have a different logo
 favicon: 'assets/images/logo.png'  # Update if you have a different favicon
 # baseurl: ""  # Update with the correct base URL, empty if you're hosting at the root of your domain
@@ -18,7 +18,7 @@ authors:
     display_name: Gurman K. Dhaliwal
     avatar: 'assets/images/avatar.png'  # Update if you have a different avatar
     email: gurmankdhaliwal2@gmail.com
-    web: https://www.yourwebsite.com  # Update with your website or remove if not applicable
+    web: https://www.gurmandhaliwal.com  # Update with your website or remove if not applicable
     twitter: https://twitter.com/yourtwitter  # Update with your Twitter or remove if not applicable
     description: "Gurman K. Dhaliwal is a data scientist and political researcher focusing on the intersection of data analysis and social sciences. This site showcases his work and insights into the role of data in understanding social dynamics."
 
@@ -40,7 +40,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 50
 paginate_path: /page:num/
     
 # Other

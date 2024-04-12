@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About Gurman
-permalink: /about
-comments: false
+permalink: /about 
 ---
 
 <div class="row">
@@ -20,14 +19,15 @@ comments: false
 
         <h4>Connect with Me</h4>
 
-        <p>For further information or to get in touch, visit my <a href="https://gkd-stack.github.io/portfolio/">Portfolio</a>, <a href="https://www.linkedin.com/in/gurman-dhaliwal/">LinkedIn</a>, or email me at gurmankdhaliwal2@gmail.com.</p>
+        <p>Email me at gurmankdhaliwal2@gmail.com or check out my <a href="https://www.linkedin.com/in/gurman-dhaliwal/">LinkedIn</a>.</p>
 
     </div>
 
     <!-- Image Column -->
     <div class="col-md-4">
-        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/me.png" alt="Gurman Dhaliwal" style="max-width: 100%; height: auto;">
+        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/my photo.png" alt="Gurman Dhaliwal" style="max-width: 80%; height: auto; border-radius: 50%;">
     </div>
+
 </div>
 
 

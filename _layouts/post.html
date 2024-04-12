@@ -9,7 +9,7 @@ post_class: post-template
     <script src="https://d3js.org/d3.v6.min.js"></script>
     <link rel="stylesheet" href="{{ '/assets/js/style.css' | prepend: site.baseurl }}">
 
-    <h1 class="posttitle">{{ page.title }}</h1>
+    <!-- <h1 class="posttitle">{{ page.title }}</h1> -->
   </head>
   
 <!-- Begin Article
@@ -22,7 +22,7 @@ post_class: post-template
             <div class="mainheading">
 
                 <!-- Post Title -->
-                <!-- <h1 class="posttitle">{{ page.title }}</h1> -->
+                <h1 class="posttitle">{{ page.title }}</h1>
 
             </div>
 
@@ -65,7 +65,7 @@ post_class: post-template
                     <li>
                         <a href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
                     </li>
-                    {% endfor %}s=
+                    {% endfor %}
                 </ul>
             </div>
             <!-- End Tags -->
@@ -74,7 +74,7 @@ post_class: post-template
         <script src="{{ '/assets/js/displayData.js' | prepend: site.baseurl }}"></script>
         <script src="{{ '/assets/js/crypto_bar_chart.js' | prepend: site.baseurl }}"></script>
         <script src="{{ '/assets/js/bubble-chart.js' | prepend: site.baseurl }}"></script>
-
+        <script src="{{ '/assets/js/agency.js' | prepend: site.baseurl }}"></script>
         </div>
         <!-- End Post -->
 

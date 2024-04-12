@@ -14,7 +14,7 @@
     
 <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
 
-<link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/main.scss" rel="stylesheet">
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
@@ -68,11 +68,13 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">All Articles</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">Writing</a>
                 </li>
-
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/about">About Author</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/projects">Projects</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/about">About Gurman</a>
                 </li>
 
                 {% include search-lunr.html %}
@@ -97,7 +99,8 @@ ga('send', 'pageview');
 <div class="mainheading">
     <h1 class="sitetitle">{{ site.name }}</h1>
     <p class="lead">
-        {{ site.description }}
+        <!-- {{ site.description }} -->
+        Data Scientist | Social Science Researcher | Writer 
     </p>
 </div>
 
