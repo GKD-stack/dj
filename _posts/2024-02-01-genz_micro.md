@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Generation Z Can Teach Us About Cybersecurity"
+title:  "Girl Security & Microsoft on Gen Z Perspectives"
 author: Gurman
 categories: ['Tech','Privacy']
 image: assets/images/data_privacy.webp
