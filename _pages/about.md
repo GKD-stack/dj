@@ -20,7 +20,7 @@ permalink: /about
 
     <!-- Image Column -->
     <div class="col-md-4">
-        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/IMG_0040.jpeg" alt="Gurman Dhaliwal" style="max-width: 80%; height: auto; border-radius: 50%;">
+        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/gurmansquare.jpeg" alt="Gurman Dhaliwal" style="max-width: 80%; height: auto; border-radius: 50%;">
     </div>
 
 </div>
