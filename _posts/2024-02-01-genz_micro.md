@@ -3,7 +3,7 @@ layout: post
 title:  "Girl Security & Microsoft on Gen Z Perspectives"
 author: Gurman
 categories: ['Tech','Privacy']
-image: assets/images/data_privacy.webp
+image: assets/images/cyber_sec.jpg
 ---
 
 *In 2022, I was a Fellow at Girl Security, a program dedicated to furthering women in technology, innovation, and government. As a part of this program, I had the opportunity to contribute to a Microsoft blog regarding Gen Z perspectives on cybersecurity. Check out the original link [here](https://www.microsoft.com/en-us/security/blog/2022/03/15/what-generation-z-can-teach-us-about-cybersecurity/)!*
