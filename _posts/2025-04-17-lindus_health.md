@@ -3,7 +3,7 @@ layout: post
 title:  Lindus Health Stock Pitch"
 author: Gurman Dhaliwal
 categories: [Technology]
-image: assets/images/crypto.png
+image: assets/images/lindus.jpeg
 ---
 
 ### Introduction
