@@ -4,6 +4,7 @@ title:  "Part 1: Yield Curve Inversion and Recession Signals"
 author: Gurman
 categories: ['Quantitative Economic Analysis]
 image: assets/images/yield.jpg
+featured: True
 ---
 
 ### Yield Curve Inversion
@@ -49,4 +50,4 @@ Despite inversions being recession indicators, the immediate market reaction in 
 
 #### Next Steps
 
-This analysis was a exploration between yield curve inversion and market return. Part 2 of this analysis will expand the starter dataset with more economic indicators such as the federal funds rate, housing starts, and VIX volatility index to use as features in predictive models to estimate forward return. 
+This analysis was an exploration of yield curve inversion and market return. Part 2 of this analysis will expand the starter dataset with more economic indicators such as the federal funds rate, housing starts, and VIX volatility index to use as features in predictive models to estimate forward return. 
