@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  Part 1 Yield Curve Inversion and Recession Signals
-author: sal
-categories: ['Quantitative Economic Analysis]
+author: Gurman Dhaliwal
+categories: [Technology]
 image: assets/images/yield.jpg
-featured: True
+featured: true
 ---
 
 ### Yield Curve Inversion
