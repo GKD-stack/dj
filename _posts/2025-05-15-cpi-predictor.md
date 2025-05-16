@@ -3,7 +3,7 @@ layout: post
 title: Nowcasting Inflation Using Google Trends and Machine Learning Methods
 author: Gurman Dhaliwal
 categories: [Technology]
-image: assets/images/cpipred_front.jpeg
+image: assets/images/cpipred_logo.jpg
 featured: true
 ---
 
