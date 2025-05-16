@@ -62,7 +62,7 @@ The following supervised learning models were applied to predict monthly CPI:
 
 This approach uses **one-month-lagged search trend indicators** and **lagged CPI** to predict **current CPI levels** and mimic real-world forecasting logic. 
 
-![Graph](assets/images/cpipred_g1.png) 
+![643f4937-0e36-4f6c-872c-177689e4ab26](https://github.com/user-attachments/assets/a6545f5a-d11a-4e2f-90c7-62affafe4ec0)
 
 **Performance:**
 
@@ -78,8 +78,7 @@ This approach also accounts for the real-world lag between consumer search behav
 #### **2. Runner-Up: Predicting CPI % Change with Lagged CPI and Current Trends**
 
 This model uses **current search trend indicators and lagged CPI** to predict **current CPI % Change**. The rationale was that transforming CPI into a % change makes the target stationary.
-
-![Graph](assets/images/cpipred_g2.png) 
+![be2f1977-9475-4656-ba3e-7ae43646490c](https://github.com/user-attachments/assets/41d61576-7326-46f2-8566-15c8b269c864)
 
 **Performance**
 
