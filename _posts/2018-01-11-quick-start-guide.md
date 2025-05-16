@@ -4,7 +4,7 @@ title: "A Policy Outlook on Mitigating Bias in Algorithm Design"
 author: Gurman
 categories: [ ]
 image: assets/images/bias.jpg
-featured: true 
+featured: false
 hidden: false
 ---
 
