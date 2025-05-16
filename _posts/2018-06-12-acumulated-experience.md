@@ -4,7 +4,6 @@ title:  "What is the U.S. doing to Regulate Direct-To-Consumer Genetic Testing a
 author: sal
 categories: ['Policy Analysis']
 image: assets/images/dtc.jpeg
-featured: True 
 ---
 
 The direct-to-consumer genetic testing (DTC-GT) market has grown dramatically in popularity in recent years and it’s predicted to keep going up.The US DTC-GT market size surpassed 3 billion USD and is expected to continue to grow at a compound annual growth rate of 25% from 2024 to 2030, according to a report by [Grandview Research](https://www.grandviewresearch.com/industry-analysis/direct-to-consumer-genetic-testing-market-report). This growth is underscored by the fact that nearly 100 million individuals have completed a DTC-GT [Santa Clara University](https://www.scu.edu/ethics/healthcare-ethics-blog/direct-to-consumer-genetic-testing-and-the-vulnerable-promoting-justice-in-healthcare/#:~:text=It%20is%20estimated%20100%20million%20individuals%20have%20completed%20a%20DTC%2DGT). 
