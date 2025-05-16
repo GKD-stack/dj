@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Part 1: Yield Curve Inversion and Recession Signals
+title:  Part 1 Yield Curve Inversion and Recession Signals
 author: sal
 categories: ['Quantitative Economic Analysis]
 image: assets/images/yield.jpg
