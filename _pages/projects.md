@@ -7,6 +7,16 @@ permalink: /projects
 
 <div style="overflow: hidden;">
   <div style="width: 100%; clear: both; margin-bottom: 20px">
+
+    <div style="width: 50%; float: left; padding: 20px; margin-top: 50px">
+    <h3>Analyzing Maternal Mortality Legislation (21-22 TRELS Grant Project)</h3>
+    <a href="https://gkd-stack.github.io/">Project Website</a>
+    </div>
+    <div style="width: 45%; height: 35%; float: left;">
+      <img src="./assets/images/trels.jpg" style="width: auto; height: auto; object-fit: cover; border-radius: 10px; display: block; margin: auto;" alt="poster">
+    
+    </div>
+
     <div style="width: 45%; height: 35%; float: left;">
       <img src="./assets/images/Manhattan_prostate_cancer.png" style="width: auto; height: auto; object-fit: cover; border-radius: 10px; display: block; margin: auto;" alt="poster">
 
