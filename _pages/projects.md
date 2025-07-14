@@ -8,6 +8,18 @@ permalink: /projects
 <div style="overflow: hidden;">
   <div style="width: 100%; clear: both; margin-bottom: 20px">
     <div style="width: 45%; height: 35%; float: left;">
+      <img src="./assets/images/flourish.jpg" style="width: auto; height: auto; object-fit: cover; border-radius: 10px; display: block; margin: auto;" alt="poster">
+
+    </div>
+    <div style="width: 50%; float: left; padding: 20px; margin-top: 50px">
+      <h3>Flourish: Personalized Financial Literacy App</h3>
+      <p>A personalized financial literacy app made for and by young women, demystifying personal finance</p>
+      <a href="https://flourishyourmoney.framer.website">Project Website</a>
+    </div>
+  </div>
+
+  <div style="width: 100%; clear: both; margin-bottom: 20px">
+    <div style="width: 45%; height: 35%; float: left;">
       <img src="./assets/images/Manhattan_prostate_cancer.png" style="width: auto; height: auto; object-fit: cover; border-radius: 10px; display: block; margin: auto;" alt="poster">
 
     </div>
@@ -61,7 +73,7 @@ permalink: /projects
 
     </div>
     <div style="width: 50%; float: left; padding: 20px; margin-top: 50px">
-      <h3>Predictive Modeling and Geoisualization for Power Outages</h3>
+      <h3>Predictive Modeling and Geovisualization for Power Outages</h3>
       <a href="https://github.com/GKD-stack/Power-Outages">Code</a> 
     </div>
   </div>
@@ -88,5 +100,3 @@ permalink: /projects
       <a href="https://issuu.com/ucsdadwave/docs/ecopackables/11">Casebook</a> 
     </div>
   </div>
-  
-</div>
