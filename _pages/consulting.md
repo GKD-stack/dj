@@ -4,7 +4,7 @@ title: Consulting
 permalink: /consulting
 ---
 
-# Financial Data Analytics Consulting
+# Data Science & Analytics Consulting
 
 ## Making Sense of Numbers That Matter
 We help investment firms, financial advisors, and growing businesses turn messy data into clear decisions. With hands-on experience analyzing $3 trillion+ in assets at Capital Group, we bring institutional-grade analytics to organizations that need reliable insights but can't justify a full-time data scientist.
@@ -21,10 +21,14 @@ If any of these sound familiar, we can help.
 
 ### What We Actually Do
 Investment & Portfolio Analysis	Automation That Actually Works	Making Data Make Sense
-• Clean up performance data and spot what's working	• Turn manual Excel processes into Python workflows	• Translate technical findings into actionable insights
-• Build automated reports that catch anomalies	• Create dashboards that update automatically	• Process large datasets (20M+ data points)
-• Create capital market assumption models	• Set up data pipelines that save hours weekly	• Build ML models for forecasting and classification
-• Validate investment attributes and security data	• Document everything so you're never stuck	• Bridge the gap between data and decision makers
+- Clean up performance data and spot what's working
+- Turn manual Excel processes into Python workflows
+- Automate processes that take too much time
+- Create dashboards that update automatically
+- Work with large datasets (20M+ data points)
+- Build ML models for forecasting and classification
+- Document everything so you're never stuck
+- Bridge the gap between data and decision makers
 
 ### Why This Works
 We've spent years in the trenches at Capital Group, working directly with investment directors on portfolio decisions worth millions. We've also built systems for the U.S. Census Bureau and Harvard researchers - so we know how to make complex analytics actually useful for busy professionals.
