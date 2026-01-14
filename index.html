@@ -1,52 +1,53 @@
----
-layout: default
-title: Home
----
-
-
-{% if page.url == "/" %}
-
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-    <div class="section-title">
-        <h2><span>Featured</span></h2>
-    </div>
-    <div class="row">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
-</section>
-
-{% endif %}
-
-<!-- Posts Index
-================================================== -->
-<section class="recent-posts">
-
-    <div class="section-title">
-
-        <h2><span>All Articles</span></h2>
-
-    </div>
-
-    <div class="row listrecent">
-
-        {% for post in paginator.posts %}
-
-        {% include postbox.html %}
-
-        {% endfor %}
-
-    </div>
-
-</section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gurman Dhaliwal</title>
+  <style>
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      margin: 0;
+      padding: 0;
+      color: #33302e;
+      background: #fff1e5;
+      line-height: 1.6;
+    }
+    a {
+      color: #990f3d;
+      text-decoration: none;
+      border-bottom: 1px solid #990f3d;
+      transition: all 0.2s ease;
+    }
+    a:hover {
+      color: #6d0a2b;
+      border-bottom-color: #6d0a2b;
+    }
+  </style>
+</head>
+<body>
+  <section style="max-width: 680px; margin: 0 auto; padding: 96px 24px;">
+    <header style="margin-bottom: 48px; border-bottom: 3px solid #33302e; padding-bottom: 24px;">
+      <h1 style="font-size: 3rem; line-height: 1.1; margin: 0; font-weight: 700; letter-spacing: -0.02em;">
+        Gurman Dhaliwal
+      </h1>
+      <p style="margin: 16px 0 0; font-size: 1.15rem; line-height: 1.5; color: #5a5653; font-style: italic;">
+        Data Scientist, Capital Group<br />
+        Los Angeles
+      </p>
+    </header>
+    <main style="font-size: 1.15rem; line-height: 1.8;">
+      <p style="margin-top: 0; text-align: justify;">
+        I'm a data scientist at Capital Group supporting investment teams with automation, quantitative tools, and analytics.
+        I've previously worked in government and public policy. 
+      </p>
+      <hr style="margin: 42px 0; border: none; border-top: 1px solid #ccc5b9;" />
+      <p style="margin: 0; font-size: 1.05rem;">
+        <a href="mailto:gurmankdhaliwal2@gmail.com">Email</a>
+        <span style="opacity: 0.4; margin: 0 8px;">·</span>
+        <a href="https://www.linkedin.com/in/gurman-dhaliwal/">LinkedIn</a>
+      </p>
+    </main>
+  </section>
+</body>
+</html>
